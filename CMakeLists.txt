@@ -52,4 +52,4 @@ include(CPack)
 
 enable_testing()
 
-add_test(print_patch_ver test_ver)
+add_test(ci_cd_test tests)
